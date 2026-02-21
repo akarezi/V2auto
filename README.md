@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="v2auto_banner.png" alt="V2auto Banner" width="100%">
+</p>
+
 # V2auto
 
 [![Linux Compatible](https://img.shields.io/badge/platform-linux-lightgrey.svg)](https://www.linux.org/)
